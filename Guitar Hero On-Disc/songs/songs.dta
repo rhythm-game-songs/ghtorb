@@ -4544,7 +4544,7 @@
 )
 (beenoxlogo_ghsh
    (name "Beenox Logo")
-   (artist "Fran ois Jalbert")
+   (artist "François Jalbert")
    (master TRUE)
    (context 2000)
    (song
@@ -4930,7 +4930,7 @@
 )
 (avalancha_gh3
    (name "Avalancha")
-   (artist "H roes del Silencio")
+   (artist "Héroes del Silencio")
    (master TRUE)
    (song
       (name songs/avalancha_gh3/avalancha_gh3)
@@ -8195,7 +8195,7 @@
 )
 (looksthatkill_gh5
    (name "Looks That Kill")
-   (artist "M tley Cr e")
+   (artist "Mötley Crüe")
    (master TRUE)
    (song
       (name songs/looksthatkill_gh5/looksthatkill_gh5)
@@ -8253,7 +8253,7 @@
 )
 (shoutatthedevil_ghsh
    (name "Shout at the Devil")
-   (artist "M tley Cr e")
+   (artist "Mötley Crüe")
    (master TRUE)
    (song
       (name songs/shoutatthedevil_ghsh/shoutatthedevil_ghsh)
@@ -8313,7 +8313,7 @@
 )
 (overkill_ghwt
    (name "Overkill")
-   (artist "Mot rhead")
+   (artist "Motörhead")
    (master TRUE)
    (song_id 2137709991)
    (song
@@ -8359,7 +8359,7 @@
    (vocal_gender male)
    (year_released 1979)
    (album_art TRUE)
-   (album_name "Mot rhead Guitar Hero Re-Records")
+   (album_name "Motörhead Guitar Hero Re-Records")
    (album_track_number 1)
    (vocal_tonic_note 9)
    (song_tonality 1)
@@ -8655,7 +8655,7 @@
    (encoding latin1)
 )
 (mauvaisgarcon_gh3
-   (name "Mauvais gar on")
+   (name "Mauvais garçon")
    (artist "Naast")
    (master TRUE)
    (song
@@ -9617,7 +9617,7 @@
 )
 (jetcitywoman_ghwor
    (name "Jet City Woman")
-   (artist "Queensr che")
+   (artist "Queensrÿche")
    (master TRUE)
    (context 2000)
    (song
@@ -9782,7 +9782,7 @@
    (tuning_offset_cents 0)
    (guide_pitch_volume -3.0)
    (game_origin ghwor)
-   (album_name "Liebe Ist F r Alle Da")
+   (album_name "Liebe Ist Für Alle Da")
    (album_track_number 3)
    (encoding latin1)
 )
@@ -9838,7 +9838,7 @@
    (tuning_offset_cents 0)
    (guide_pitch_volume -3.0)
    (game_origin ghwor)
-   (album_name " Adi s Amigos!")
+   (album_name "¡Adiós Amigos!")
    (album_track_number 15)
    (encoding latin1)
 )
@@ -14396,7 +14396,7 @@
    (vocal_gender male)
    (year_released 1980)
    (album_art TRUE)
-   (album_name "R pression")
+   (album_name "Répression")
    (album_track_number 1)
    (vocal_tonic_note 9)
    (song_tonality 1)
