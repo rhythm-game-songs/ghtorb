@@ -5950,7 +5950,7 @@
    (encoding latin1)
 )
 (lovegun_ghwor
-   (name "Love Gun")
+   (name "Love Gun '08")
    (artist "KISS")
    (master TRUE)
    (song
@@ -5994,7 +5994,8 @@
    (version 30)
    (format 10)
    (album_art TRUE)
-   (year_released 1977)
+   (year_released 2008)
+   (year_recorded 1977)
    (rating 2)
    (sub_genre subgenre_hardrock)
    (song_id 1695504268)
@@ -6002,7 +6003,7 @@
    (tuning_offset_cents 0)
    (guide_pitch_volume -3.0)
    (game_origin ghwor)
-   (album_name "Love Gun")
+   (album_name "Jigoku-Retsuden")
    (album_track_number 6)
    (encoding latin1)
 )
