@@ -387,12 +387,12 @@
    (album_track_number 3)
    (encoding latin1)
 )
-(schoolsout_gh5dlc
+(schoolsout_5dlc
    (name "School's Out '10")
    (artist "Alice Cooper")
    (master TRUE)
    (song
-      (name songs/schoolsout_gh5dlc/schoolsout_gh5dlc)
+      (name songs/schoolsout_5dlc/schoolsout_5dlc)
       (tracks
          (
             (drum (0 1 2 3 4 5))
